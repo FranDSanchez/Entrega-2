@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Telefono",
+    "description": "Samsung",
+    "price": "www.google.com",
+    "thumbnail": 20,
+    "code": "L01",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "title": "Teclado",
+    "description": "Perifericos",
+    "price": 30,
+    "thumbnail": "www.google.com",
+    "code": "L03",
+    "stock": 5
+  }
+]
